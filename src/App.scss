@@ -1,0 +1,12 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #0099ff;
+$padding: 20px;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+.welcome {
+    padding: $padding;
+}
